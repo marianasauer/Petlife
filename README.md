@@ -1,6 +1,9 @@
 # PetLife 🐶
 
 O PetLife é um site responsivo construído usando HTML, CSS e JavaScript. Ele oferece informações sobre os serviços da clínica, um pet shop e uma farmácia. O site foi projetado para ser visualmente atraente, fácil de usar e informativo para os donos de animais de estimação em busca de cuidados veterinários de qualidade.
+
+<br>
+<br>
 ![screencapture-file-C-Users-Mariana-Sauer-OneDrive-Area-de-Trabalho-Petlife-index-html-2023-12-02-14_37_07](https://github.com/marianasauer/Desafio_DataExBootcamp/assets/105138712/388a04a5-c09a-43fa-a013-204f592efbef)
 
 ## Recursos
@@ -19,7 +22,7 @@ Clone o repositório:
 git clone https://github.com/marianasauer/PetLife.git
 ~~~~
 
-##Contato
+## Contato
 Para qualquer dúvida ou feedback, entre em contato comigo:
 
 Mariana Sauer
